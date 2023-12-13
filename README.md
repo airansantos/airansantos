@@ -1,7 +1,7 @@
 ## Olá, eu sou a Airan Santos, estudante de programação e tecnologia!
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=airansantos&theme=dark&show_icons=true"/>
+  <img width="353" src="https://github-readme-stats.vercel.app/api?username=airansantos&theme=dark&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airansantos&layout=compact&theme=dark"/>
 </div>
 
