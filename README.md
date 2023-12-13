@@ -2,7 +2,7 @@
 
 <div>
   <img width="350" src="https://github-readme-stats.vercel.app/api?username=airansantos&theme=dark&show_icons=true"/>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airansantos&layout=compact&theme=dark"/>
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airansantos&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
