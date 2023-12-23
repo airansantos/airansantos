@@ -1,4 +1,4 @@
-## Olá, eu sou a Airan Santos, estudante de programação e tecnologia!
+## Olá, eu sou a Airan, estudante de programação e tecnologia!
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airansantos&theme=dark&show_icons=true"/>
